@@ -3,7 +3,7 @@
 <h3 align="center">Junior Year Computer Science Student from COMSATS UNIVERSITY ISLAMABAD</h3>
 <p align="left"> <a href="https://twitter.com/harisxayyaz" target="blank"><img src="https://img.shields.io/twitter/follow/harisxayyaz?logo=twitter&style=for-the-badge" alt="harisxayyaz" /></a> </p>
 
-- 🧑‍💻 Tech at **IEEE CS CUI**
+- 🧑‍💻 Tech at **IEEE Computer Society CUI**
 
 - 📱 Learning **React Native**
 
