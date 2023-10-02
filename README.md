@@ -9,7 +9,7 @@
 
 - 🖥️ Competitive Programmer 
 
-- 📫 Reach me at **harisxayyaz@gmail.com**
+- 📫 Reach me at **harisayyaz42@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
