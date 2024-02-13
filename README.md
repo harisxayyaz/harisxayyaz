@@ -35,6 +35,4 @@
 <div align="center">
 <p><img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harisxayyaz&langs_count=8&hide=cmake,html&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="harisxayyaz" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=harisxayyaz&&theme=github-dark-blue)](https://git.io/streak-stats)
-
 </div>
