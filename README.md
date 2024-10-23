@@ -5,7 +5,7 @@
 <p align="center">
 - 🧑‍💻 Tech at **IEEE Computer Society CUI**
 </p><p align="center">
-- 📱 Learning **MERN**
+- 📱 **Web Developer**
 </p><p align="center">
 - 🖥️ Competitive Programmer 
 <p align="center">
