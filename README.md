@@ -1,11 +1,12 @@
 ![MasterHead](https://user-images.githubusercontent.com/68038931/147838946-616b4ed7-2e9c-4c03-8cdd-65b2b00b2d79.gif)
 <h1 align="center">Hi 👋, I'm Haris Ayyaz</h1>
-<h3 align="center">Final Year Computer Science Student from COMSATS UNIVERSITY ISLAMABAD</h3>
+<h3 align="center">Front-End Developer</h3>
 
 <p align="center">
-- 🧑‍💻 Tech at **IEEE Computer Society CUI**
+- 🧑‍💻 Front-end dev at **Hayaland Inc.**
 </p><p align="center">
-- 📱 **Web Developer**
+<p align="center">
+- 🧑‍💻 Ex-Chairperson at **IEEE Computer Society CUI**
 </p><p align="center">
 - 🖥️ Competitive Programmer 
 <p align="center">
